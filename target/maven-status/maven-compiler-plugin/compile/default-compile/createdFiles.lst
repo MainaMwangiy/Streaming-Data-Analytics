@@ -1,0 +1,8 @@
+com\microsoft\example\GetHashtag.class
+com\microsoft\example\NegativeTweetBolt.class
+com\microsoft\example\TwitterStream.class
+com\microsoft\example\PositiveTweetBolt.class
+com\microsoft\example\TwitterSpout$1.class
+com\microsoft\example\ScoreTweets.class
+com\microsoft\example\IgnoreWordsBolt.class
+com\microsoft\example\TwitterSpout.class
